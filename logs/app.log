@@ -1,0 +1,520 @@
+2025-05-17 09:39:19,686 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [39043]
+2025-05-17 09:39:19,686 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [39043]
+2025-05-17 09:39:19,687 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:39:19,687 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:39:19,688 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:39:19,688 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:40:25,468 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:40:25,468 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:40:25,571 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:40:25,571 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:40:25,572 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:40:25,572 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:40:25,573 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [39043]
+2025-05-17 09:40:25,573 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [39043]
+2025-05-17 09:40:26,272 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [40248]
+2025-05-17 09:40:26,272 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [40248]
+2025-05-17 09:40:26,272 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:40:26,272 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:40:26,273 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:40:26,273 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:40:32,293 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:40:32,293 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:40:32,396 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:40:32,396 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:40:32,399 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:40:32,399 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:40:32,401 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [40248]
+2025-05-17 09:40:32,401 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [40248]
+2025-05-17 09:40:33,121 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [40345]
+2025-05-17 09:40:33,121 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [40345]
+2025-05-17 09:40:33,122 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:40:33,122 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:40:33,122 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:40:33,122 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:40:37,235 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:40:37,235 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:40:37,336 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:40:37,336 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:40:37,338 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:40:37,338 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:40:37,339 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [40345]
+2025-05-17 09:40:37,339 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [40345]
+2025-05-17 09:40:38,047 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [40441]
+2025-05-17 09:40:38,047 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [40441]
+2025-05-17 09:40:38,048 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:40:38,048 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:40:38,048 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:40:38,048 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:09,445 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:09,445 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:09,547 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:09,547 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:09,548 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:09,548 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:09,549 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [40441]
+2025-05-17 09:41:09,549 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [40441]
+2025-05-17 09:41:10,227 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [40861]
+2025-05-17 09:41:10,227 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [40861]
+2025-05-17 09:41:10,228 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:10,228 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:10,229 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:10,229 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:18,452 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:18,452 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:18,553 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:18,553 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:18,554 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:18,554 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:18,554 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [40861]
+2025-05-17 09:41:18,554 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [40861]
+2025-05-17 09:41:19,259 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [40981]
+2025-05-17 09:41:19,259 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [40981]
+2025-05-17 09:41:19,259 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:19,259 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:19,260 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:19,260 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:25,275 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:25,275 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:25,376 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:25,376 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:25,378 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:25,378 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:25,380 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [40981]
+2025-05-17 09:41:25,380 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [40981]
+2025-05-17 09:41:26,101 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41074]
+2025-05-17 09:41:26,101 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41074]
+2025-05-17 09:41:26,102 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:26,102 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:26,102 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:26,102 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:42,048 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:42,048 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:42,149 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:42,149 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:42,150 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:42,150 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:42,150 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41074]
+2025-05-17 09:41:42,150 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41074]
+2025-05-17 09:41:42,840 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41285]
+2025-05-17 09:41:42,840 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41285]
+2025-05-17 09:41:42,841 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:42,841 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:42,841 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:42,841 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:48,656 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:48,656 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:48,757 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:48,757 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:48,758 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:48,758 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:48,758 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41285]
+2025-05-17 09:41:48,758 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41285]
+2025-05-17 09:41:49,469 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41381]
+2025-05-17 09:41:49,469 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41381]
+2025-05-17 09:41:49,469 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:49,469 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:49,470 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:49,470 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:52,680 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:52,680 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:52,782 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:52,782 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:52,783 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:52,783 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:52,783 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41381]
+2025-05-17 09:41:52,783 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41381]
+2025-05-17 09:41:53,483 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41453]
+2025-05-17 09:41:53,483 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41453]
+2025-05-17 09:41:53,484 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:53,484 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:53,485 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:53,485 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:57,093 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:57,093 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:41:57,195 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:57,195 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:41:57,196 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:57,196 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:41:57,196 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41453]
+2025-05-17 09:41:57,196 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41453]
+2025-05-17 09:41:57,891 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41540]
+2025-05-17 09:41:57,891 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41540]
+2025-05-17 09:41:57,891 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:57,891 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:41:57,892 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:41:57,892 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:42:01,903 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:42:01,903 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:42:02,004 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:42:02,004 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:42:02,007 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:42:02,007 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:42:02,008 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41540]
+2025-05-17 09:42:02,008 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41540]
+2025-05-17 09:42:02,730 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41611]
+2025-05-17 09:42:02,730 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [41611]
+2025-05-17 09:42:02,730 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:42:02,730 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:42:02,731 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:42:02,731 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:51:31,225 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:51:31,225 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:51:31,328 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:51:31,328 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:51:31,330 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:51:31,330 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:51:31,331 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41611]
+2025-05-17 09:51:31,331 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [41611]
+2025-05-17 09:51:31,996 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [49630]
+2025-05-17 09:51:31,996 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [49630]
+2025-05-17 09:51:31,996 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:51:31,996 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:51:31,997 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:51:31,997 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:51:33,603 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:51:33,603 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:51:33,705 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:51:33,705 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:51:33,708 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:51:33,708 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:51:33,709 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [49630]
+2025-05-17 09:51:33,709 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [49630]
+2025-05-17 09:51:34,406 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [49877]
+2025-05-17 09:51:34,406 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [49877]
+2025-05-17 09:51:34,407 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:51:34,407 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:51:34,407 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:51:34,407 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:53:51,924 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:53:51,924 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:53:52,025 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:53:52,025 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:53:52,029 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:53:52,029 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:53:52,032 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [49877]
+2025-05-17 09:53:52,032 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [49877]
+2025-05-17 09:53:52,771 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [51648]
+2025-05-17 09:53:52,771 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [51648]
+2025-05-17 09:53:52,772 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:53:52,772 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:53:52,773 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:53:52,773 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:53:57,789 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:53:57,789 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:53:57,892 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:53:57,892 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:53:57,893 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:53:57,893 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:53:57,894 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [51648]
+2025-05-17 09:53:57,894 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [51648]
+2025-05-17 09:53:58,609 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [51730]
+2025-05-17 09:53:58,609 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [51730]
+2025-05-17 09:53:58,610 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:53:58,610 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:53:58,610 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:53:58,610 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:54:46,767 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:54:46,767 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:54:46,870 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [51730]
+2025-05-17 09:54:46,870 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [51730]
+2025-05-17 09:55:16,727 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [53008]
+2025-05-17 09:55:16,727 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [53008]
+2025-05-17 09:55:16,728 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:55:16,728 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:55:16,729 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:55:16,729 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:58:34,646 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:58:34,646 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:58:34,747 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:58:34,747 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:58:34,750 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:58:34,750 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:58:34,751 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [53008]
+2025-05-17 09:58:34,751 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [53008]
+2025-05-17 09:58:35,453 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [55918]
+2025-05-17 09:58:35,453 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [55918]
+2025-05-17 09:58:35,454 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:58:35,454 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:58:35,455 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:58:35,455 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:58:44,585 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:58:44,585 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:58:44,686 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:58:44,686 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:58:44,686 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:58:44,686 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:58:44,687 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [55918]
+2025-05-17 09:58:44,687 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [55918]
+2025-05-17 09:58:45,363 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56154]
+2025-05-17 09:58:45,363 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56154]
+2025-05-17 09:58:45,364 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:58:45,364 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:58:45,364 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:58:45,364 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:58:46,368 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:58:46,368 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:58:46,469 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:58:46,469 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:58:46,471 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:58:46,471 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:58:46,473 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56154]
+2025-05-17 09:58:46,473 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56154]
+2025-05-17 09:58:47,154 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56190]
+2025-05-17 09:58:47,154 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56190]
+2025-05-17 09:58:47,155 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:58:47,155 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:58:47,155 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:58:47,155 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:58:50,363 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:58:50,363 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:58:50,466 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:58:50,466 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:58:50,468 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:58:50,468 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:58:50,470 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56190]
+2025-05-17 09:58:50,470 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56190]
+2025-05-17 09:58:51,174 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56301]
+2025-05-17 09:58:51,174 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56301]
+2025-05-17 09:58:51,175 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:58:51,175 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:58:51,175 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:58:51,175 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:04,010 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:04,010 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:04,112 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:04,112 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:04,113 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:04,113 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:04,114 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56301]
+2025-05-17 09:59:04,114 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56301]
+2025-05-17 09:59:04,827 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56476]
+2025-05-17 09:59:04,827 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56476]
+2025-05-17 09:59:04,828 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:04,828 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:04,829 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:04,829 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:09,341 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:09,341 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:09,442 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:09,442 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:09,445 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:09,445 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:09,446 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56476]
+2025-05-17 09:59:09,446 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56476]
+2025-05-17 09:59:10,171 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56770]
+2025-05-17 09:59:10,171 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56770]
+2025-05-17 09:59:10,172 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:10,172 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:10,173 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:10,173 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:18,296 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:18,296 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:18,398 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:18,398 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:18,398 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:18,398 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:18,398 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56770]
+2025-05-17 09:59:18,398 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56770]
+2025-05-17 09:59:19,088 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56956]
+2025-05-17 09:59:19,088 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [56956]
+2025-05-17 09:59:19,089 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:19,089 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:19,089 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:19,089 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:22,697 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:22,697 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:22,799 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:22,799 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:22,800 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:22,800 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:22,801 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56956]
+2025-05-17 09:59:22,801 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [56956]
+2025-05-17 09:59:23,503 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57018]
+2025-05-17 09:59:23,503 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57018]
+2025-05-17 09:59:23,504 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:23,504 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:23,504 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:23,504 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:34,742 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:34,742 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:34,843 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:34,843 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:34,844 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:34,844 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:34,846 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57018]
+2025-05-17 09:59:34,846 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57018]
+2025-05-17 09:59:35,566 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57140]
+2025-05-17 09:59:35,566 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57140]
+2025-05-17 09:59:35,567 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:35,567 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:35,567 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:35,567 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:41,581 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:41,581 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:41,682 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:41,682 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:41,683 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:41,683 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:41,683 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57140]
+2025-05-17 09:59:41,683 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57140]
+2025-05-17 09:59:42,380 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57350]
+2025-05-17 09:59:42,380 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57350]
+2025-05-17 09:59:42,381 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:42,381 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:42,381 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:42,381 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:48,095 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:48,095 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:48,196 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:48,196 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:48,197 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:48,197 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:48,197 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57350]
+2025-05-17 09:59:48,197 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57350]
+2025-05-17 09:59:48,900 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57468]
+2025-05-17 09:59:48,900 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57468]
+2025-05-17 09:59:48,901 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:48,901 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:48,902 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:48,902 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:52,713 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:52,713 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:52,813 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:52,813 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:52,814 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:52,814 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:52,814 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57468]
+2025-05-17 09:59:52,814 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57468]
+2025-05-17 09:59:53,501 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57678]
+2025-05-17 09:59:53,501 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57678]
+2025-05-17 09:59:53,502 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:53,502 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 09:59:53,502 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:53,502 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 09:59:59,416 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:59,416 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 09:59:59,519 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:59,519 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 09:59:59,522 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:59,522 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 09:59:59,523 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57678]
+2025-05-17 09:59:59,523 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57678]
+2025-05-17 10:00:00,240 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57789]
+2025-05-17 10:00:00,240 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [57789]
+2025-05-17 10:00:00,241 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:00:00,241 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:00:00,241 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:00:00,241 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:04:06,844 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:04:06,844 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:04:06,947 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:04:06,947 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:04:06,949 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:04:06,949 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:04:06,951 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57789]
+2025-05-17 10:04:06,951 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [57789]
+2025-05-17 10:04:07,670 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [60518]
+2025-05-17 10:04:07,670 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [60518]
+2025-05-17 10:04:07,671 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:04:07,671 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:04:07,671 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:04:07,671 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:04:20,917 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:04:20,917 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:04:21,019 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:04:21,019 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:04:21,022 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:04:21,022 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:04:21,023 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [60518]
+2025-05-17 10:04:21,023 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [60518]
+2025-05-17 10:04:21,714 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [60757]
+2025-05-17 10:04:21,714 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [60757]
+2025-05-17 10:04:21,715 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:04:21,715 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:04:21,716 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:04:21,716 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:04:35,660 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:04:35,660 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:04:35,762 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:04:35,762 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:04:35,765 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:04:35,765 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:04:35,766 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [60757]
+2025-05-17 10:04:35,766 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [60757]
+2025-05-17 10:04:36,466 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [61052]
+2025-05-17 10:04:36,466 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [61052]
+2025-05-17 10:04:36,467 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:04:36,467 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:04:36,467 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:04:36,467 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:05:06,250 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:05:06,250 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:05:06,352 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:05:06,352 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:05:06,353 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:05:06,353 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:05:06,353 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [61052]
+2025-05-17 10:05:06,353 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [61052]
+2025-05-17 10:05:07,057 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [61468]
+2025-05-17 10:05:07,057 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [61468]
+2025-05-17 10:05:07,058 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:05:07,058 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:05:07,058 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:05:07,058 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:05:08,161 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:05:08,161 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:05:08,262 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:05:08,262 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:05:08,265 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:05:08,265 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:05:08,266 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [61468]
+2025-05-17 10:05:08,266 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [61468]
+2025-05-17 10:05:08,983 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [61505]
+2025-05-17 10:05:08,983 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [61505]
+2025-05-17 10:05:08,984 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:05:08,984 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:05:08,984 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:05:08,984 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:10:54,384 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:10:54,384 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:10:54,486 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:10:54,486 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:10:54,489 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:10:54,489 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:10:54,490 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [61505]
+2025-05-17 10:10:54,490 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [61505]
+2025-05-17 10:10:55,203 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [66911]
+2025-05-17 10:10:55,203 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [66911]
+2025-05-17 10:10:55,204 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:10:55,204 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:10:55,204 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:10:55,204 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:11:00,922 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:11:00,922 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:11:01,024 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:11:01,024 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:67: Waiting for application shutdown.
+2025-05-17 10:11:01,026 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:11:01,026 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:76: Application shutdown complete.
+2025-05-17 10:11:01,028 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [66911]
+2025-05-17 10:11:01,028 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [66911]
+2025-05-17 10:11:01,734 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [67026]
+2025-05-17 10:11:01,734 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [67026]
+2025-05-17 10:11:01,734 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:11:01,734 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:11:01,735 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:11:01,735 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:11:07,453 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:11:07,453 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:11:07,556 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [67026]
+2025-05-17 10:11:07,556 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [67026]
+2025-05-17 10:11:09,413 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [67201]
+2025-05-17 10:11:09,413 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:83: Started server process [67201]
+2025-05-17 10:11:09,414 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:11:09,414 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:48: Waiting for application startup.
+2025-05-17 10:11:09,415 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:11:09,415 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/lifespan/on.py:62: Application startup complete.
+2025-05-17 10:11:20,264 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:11:20,264 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:263: Shutting down
+2025-05-17 10:11:20,367 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [67201]
+2025-05-17 10:11:20,367 INFO /home/heliannuuthus/Code/iamacooker/.venv/lib/python3.12/site-packages/uvicorn/server.py:93: Finished server process [67201]

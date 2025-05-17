@@ -5,19 +5,20 @@ description = "A cooking assistant project with agent and MCP server"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "fastapi[standard]>=0.115.12",
     "fastmcp>=2.3.4",
+    "httpx>=0.28.1",
     "openai-agents>=0.0.14",
     "types-cachetools>=5.5.0.20240820",
 ]
 
 [tool.uv.workspace]
 members = [
-    "app",
+    "iamacooker-agent",
     "howtocook-mcp"
 ]
 
 
 [project.scripts]
-start-mcp = "python -m howtocook-mcp.src.app"
-start-agent = "python -m app.agent"
-start-all = "uv run start-mcp & uv run start-agent"
+start-mcp = "fastmcp run howtocook-mcp.app"
+start-agent = "fastapi dev iamacooker-agent.main.py --reload"
