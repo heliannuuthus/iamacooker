@@ -1,0 +1,10 @@
+[project]
+name = "iamacooker-agent"
+version = "0.1.0"
+description = "The agent component of IAmACooker"
+requires-python = ">=3.12"
+dependencies = [
+    "openai-agents>=0.0.15",
+]
+
+
