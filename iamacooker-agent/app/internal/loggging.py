@@ -45,5 +45,7 @@ def get_logger(name: str):
     return logger
 
 
-for logger_name in ["uvicorn", "uvicorn.access", "uvicorn.error", "fastapi"]:
+for logger_name in ["uvicorn", "uvicorn.access", "fastapi"]:
     get_logger(logger_name)
+
+get_logger("uvicorn.error").setLevel(logging.ERROR)

@@ -16,4 +16,5 @@ app.include_router(howtocook_router)
 if __name__ == "__main__":
     import uvicorn
 
+    logger.info("starting server")
     uvicorn.run("app.main:app", host="0.0.0.0", port=18000, reload=True)
