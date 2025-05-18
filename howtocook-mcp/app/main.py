@@ -1,16 +1,14 @@
 #!/usr/bin/env python
 from fastmcp import FastMCP
 
-from .data.recipes import fetch_recipes
+from app.data.recipes import fetch_recipes
 
 # 创建MCP服务器
-app = FastMCP(
-    name="howtocook-py-mcp", version="0.0.1", description="菜谱助手 MCP 服务", port=9000
-)
+mcp = FastMCP(name="howtocook-mcp")
 
 
 # 获取所有菜谱工具
-@app.tool()
+@mcp.tool()
 async def get_all_recipes():
     """
     获取所有菜谱
@@ -19,7 +17,7 @@ async def get_all_recipes():
         所有菜谱的简化信息，只包含名称和描述
     """
     # 获取菜谱数据
-    from .utils.recipe_utils import simplify_recipe_name_only
+    from app.utils.recipe_utils import simplify_recipe_name_only
 
     recipes = await fetch_recipes()
     if not recipes:
@@ -39,7 +37,7 @@ async def get_all_recipes():
 
 
 # 按分类获取菜谱工具
-@app.tool()
+@mcp.tool()
 async def get_recipes_by_category(category: str):
     """
     根据分类查询菜谱
@@ -50,7 +48,7 @@ async def get_recipes_by_category(category: str):
     Returns:
         该分类下所有菜谱的简化信息
     """
-    from .utils.recipe_utils import simplify_recipe
+    from app.utils.recipe_utils import simplify_recipe
 
     recipes = await fetch_recipes()
     if not recipes:
@@ -73,7 +71,7 @@ async def get_recipes_by_category(category: str):
 
 
 # 不知道吃什么推荐工具
-@app.tool()
+@mcp.tool()
 async def what_to_eat(people_count: int):
     """
     不知道吃什么？根据人数直接推荐适合的菜品组合
@@ -86,8 +84,8 @@ async def what_to_eat(people_count: int):
     """
     import random
 
-    from .types.models import DishRecommendation
-    from .utils.recipe_utils import simplify_recipe
+    from app.types.models import DishRecommendation
+    from app.utils.recipe_utils import simplify_recipe
 
     recipes = await fetch_recipes()
     if not recipes:
@@ -182,7 +180,7 @@ async def what_to_eat(people_count: int):
 
 
 # 推荐膳食计划工具
-@app.tool()
+@mcp.tool()
 async def recommend_meals(
     people_count: int, allergies: list = None, avoid_items: list = None
 ):
@@ -200,8 +198,8 @@ async def recommend_meals(
     import json
     import random
 
-    from .types.models import DayPlan, MealPlan
-    from .utils.recipe_utils import simplify_recipe
+    from app.types.models import DayPlan, MealPlan
+    from app.utils.recipe_utils import simplify_recipe
 
     if allergies is None:
         allergies = []
@@ -333,4 +331,11 @@ async def recommend_meals(
 
 
 if __name__ == "__main__":
-    app.run(transport="streamable-http", host="127.0.0.1", port=18200, path="/mcp")
+    print("Starting MCP server...")
+    mcp.run(
+        transport="streamable-http",
+        host="127.0.0.1",
+        port=18200,
+        path="/mcp",
+        log_level="debug",
+    )

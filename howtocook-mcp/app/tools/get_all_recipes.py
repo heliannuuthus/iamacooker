@@ -1,16 +1,18 @@
 import json
 from typing import List
 from fastmcp import McpServer
-from ..types.models import Recipe
-from ..utils.recipe_utils import simplify_recipe_name_only
+from app.types.models import Recipe
+from app.utils.recipe_utils import simplify_recipe_name_only
+
 
 def register_get_all_recipes_tool(server: McpServer, recipes: List[Recipe]):
     """注册获取所有菜谱工具
-    
+
     Args:
         server: MCP服务器实例
         recipes: 菜谱列表
     """
+
     @server.tool(
         name="mcp_howtocook_getAllRecipes",
         description="获取所有菜谱",
@@ -24,10 +26,10 @@ def register_get_all_recipes_tool(server: McpServer, recipes: List[Recipe]):
                 {
                     "type": "text",
                     "text": json.dumps(
-                        [recipe.model_dump() for recipe in simplified_recipes], 
-                        ensure_ascii=False, 
-                        indent=2
+                        [recipe.model_dump() for recipe in simplified_recipes],
+                        ensure_ascii=False,
+                        indent=2,
                     ),
                 },
             ],
-        } 
+        }

@@ -2,7 +2,7 @@ from typing import List
 
 import httpx
 
-from ..types.models import Recipe
+from app.types.models import Recipe
 
 # 远程菜谱JSON文件URL
 RECIPES_URL = (
